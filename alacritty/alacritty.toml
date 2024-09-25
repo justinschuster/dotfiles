@@ -1,0 +1,16 @@
+import = [
+    "~/.config/alacritty/themes/themes/gruvbox_dark.toml"
+]
+
+[shell]
+program = "/usr/bin/zsh"
+
+[window]
+padding = { x = 15, y = 5}
+dynamic_padding = true
+opacity = 1.0
+
+[font]
+normal = { family = "NotoMono Nerd Font", style = "Regular"}
+size = 11.50
+offset = { x = 1, y = 0}
